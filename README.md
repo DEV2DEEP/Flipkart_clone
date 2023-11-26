@@ -1,2 +1,3 @@
 # Flipkart_clone
-CSS , HTML PROJECT 
+CSS , HTML , JS - PROJECT 
+Before running the project save them in one same folder.
